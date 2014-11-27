@@ -16,7 +16,7 @@ https://chrome.google.com/webstore/detail/myo-internet-browsing/jppipfjlphmfmcdc
 
 #Gesture
 Without Chrome Open:
-Fist + Spread: Open browser (currently to hackthenorth.com)
+Fist + Spread: Open browser (currently to HackTheNorth.com)
 Thumb to Pinky: Open the navigation menu (doesn't work on all sites)
 
 With Navigation Menu Open:
@@ -36,6 +36,6 @@ Spread:
    - Move columns for tweetdeck
 
 
-#Dependancies (Chrome Extensions)
+#Dependencies (Chrome Extensions)
 - Reddit Enhancement Suite
 - Hacker News Enhancement Suite
