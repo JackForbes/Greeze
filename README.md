@@ -1,6 +1,8 @@
 Greeze
 ===
 
+Myo hands-free internet browsing! Using this script and the Chrome extension below, open and navigate the popular supported sites.
+
 #Chrome Extension
 This extension needs to be downloaded:
 https://chrome.google.com/webstore/detail/myo-internet-browsing/jppipfjlphmfmcdckheaflljahlddone
