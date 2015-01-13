@@ -33,7 +33,6 @@ Spread:
  - Twitter: No action
  - Tweetdeck: Move over columns
  - 9gag: "like" a post
-   - Move columns for tweetdeck
 
 
 #Dependencies (Chrome Extensions)
