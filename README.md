@@ -40,3 +40,7 @@ Spread:
 #Dependencies (Chrome Extensions)
 - Reddit Enhancement Suite
 - Hacker News Enhancement Suite
+
+
+#Contribute
+If you want to contribute feel free to send a Pull Request my way! This was just made during a hackathon :)
